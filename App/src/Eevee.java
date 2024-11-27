@@ -2,7 +2,8 @@ public class Eevee{
     String tipo;
     Double peso;
     int altura;
-    int hp; 
+    int hp;
+    String subtitulo;
     // mesmo que hit point (ou pontos de saúde)
     public String ataque(){
         return "Ataque rápido";
